@@ -1,0 +1,218 @@
+/*****************************************************
+ * Magic Mirror                                      *
+ * Custom CSS                                        *
+ *                                                   *
+ * By Michael Teeuw http://michaelteeuw.nl           *
+ * MIT Licensed.                                     *
+ *                                                   *
+ * Add any custom CSS below.                         *
+ * Changes to this files will be ignored by GIT. *
+ *****************************************************/
+
+ body {
+
+ }
+/* date normal xsmall */
+.clock .xsmall {
+  text-align: center;
+  font-size: 18px;
+  padding-top: 20px;
+}
+
+.clock .time{
+  font-weight: 100;
+  letter-spacing: 4px;
+
+}
+
+.clock {
+  letter-spacing: 4px;
+}
+
+#nieuwsID {
+  background-color: white;
+  display: inline-block;
+  border-radius: 50px/50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+
+  color: #95989A;
+}
+
+#newsFeedTitleID {
+  color: inherit;
+}
+
+#newsFeedDescriptionID {
+  color: inherit;
+}
+
+/*.compliments {
+  border: 2px solid white;
+  padding: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 120px;
+
+}*/
+
+/********** ICONS **********/
+.brightb {
+color: #2196F3;
+}
+
+.currentweather .bright {
+  padding-left: 10px;
+  letter-spacing: 4px;
+
+}
+
+.currentweather {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  letter-spacing: 4px;
+}
+
+.currentweather .medium {
+  padding-top: 20px;
+
+}
+
+.currentweather .wi-sunrise {
+color: #aaa;
+}
+.currentweather .wi-sunset {
+color: #aaa;
+}
+.currentweather .wi-day-sunny {
+color: #FFEB3B;
+}
+.currentweather .wi-night-showers {
+color: #2196F3;
+}
+.currentweather .wi-degrees {
+color: #415;
+}
+.currentweather .wi-rain {
+color: #2196F3;
+}
+.currentweather .wi-showers {
+color: #2196F3;
+}
+.currentweather .wi-night-showers {
+color: #2196F3;
+}
+.currentweather .wi-night-alt-cloudy-windy {
+color: #FFFFFF;
+}
+.currentweather .wi-night-cloudy {
+color: #FFFFFF;
+}
+.currentweather .wi-cloudy {
+color: #FFFFFF;
+}
+.currentweather .wi-day-cloudy {
+color: #FFFFFF;
+}
+.currentweather .wi-cloudy {
+color: #FFFFFF
+}
+.currentweather .wi-cloudy-windy {
+color: #FFFFFF;
+}
+
+.currentweather .wi-snow {
+color: #FFFFFF;
+}
+.currentweather .wi-fog {
+color: #999;
+}
+.currentweather .wi-night-clear {
+color: #FFFFFF;
+}
+.currentweather .wi-night-rain {
+color: #2196F3;
+}
+.currentweather .wi-night-thunderstorm {
+color: #ff00ff;
+}
+.currentweather .wi-night-snow {
+color: #FFFFFF;
+}
+
+.weatherforecast .wi-sunrise {
+color: #ffd700;
+}
+.weatherforecast .wi-sunset {
+color: #ffa500;
+}
+.weatherforecast .wi-day-sunny {
+color: #ffff00;
+}
+.weatherforecast .wi-night-showers {
+color: #2196F3;
+}
+.weatherforecast .wi-degrees {
+color: #415;
+}
+.weatherforecast .wi-rain {
+color: #2196F3;
+}
+.weatherforecast .wi-showers {
+color: #2196F3;
+}
+.weatherforecast .wi-night-showers {
+color: #2196F3;
+}
+.weatherforecast .wi-night-alt-cloudy-windy {
+color: #FFFFFF;
+}
+.weatherforecast .wi-night-cloudy {
+color: #FFFFFF;
+}
+.weatherforecast .wi-cloudy {
+color: #FFFFFF;
+}
+.weatherforecast .wi-day-cloudy {
+color: #FFFFFF;
+}
+.weatherforecast .wi-cloudy {
+color: #FFFFFF;
+}
+.weatherforecast .wi-cloudy-windy {
+color: #FFFFFF;
+}
+.weatherforecast .wi-showers {
+color: #2196F3;
+}
+.weatherforecast .wi-thunderstorm {
+color: #ff00ff;
+}
+.weatherforecast .wi-snow {
+color: #FFFFFF;
+}
+.weatherforecast .wi-fog {
+color: #999;
+}
+.weatherforecast .wi-night-clear {
+color: #FFFFFF;
+}
+.weatherforecast .wi-night-rain {
+color: #2196F3;
+}
+.currentweather .wi-night-snow {
+color: #FFFFFF;
+}
+
+.grayscale {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.AI {
+  -webkit-filter: hue-rotate(180deg); /* Safari */
+  filter: hue-rotate(180deg);
+
+}
