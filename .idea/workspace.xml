@@ -17,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="75" lean-forward="false" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node_helper.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/MMM-Remote-Control/node_helper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4464">
+              <caret line="248" column="59" lean-forward="false" selection-start-line="248" selection-start-column="59" selection-end-line="248" selection-end-column="59" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -189,6 +201,11 @@
             <path>
               <item name="MagicMirror-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="MagicMirror-master" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MagicMirror-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MagicMirror-master" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -213,6 +230,12 @@
               <item name="MagicMirror-master" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="MMM-GoogleAssistant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MagicMirror-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MagicMirror-master" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="MMM-Remote-Control" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,12 +316,12 @@
       <workItem from="1507894914667" duration="40000" />
       <workItem from="1507894966668" duration="4821000" />
       <workItem from="1508233917477" duration="5158000" />
-      <workItem from="1508253198939" duration="1543000" />
+      <workItem from="1508253198939" duration="2716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22829000" />
+    <option name="totallyTimeSpent" value="24002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -345,7 +368,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/default/MMM-AlexaPi/node_helper.js" />
     <entry file="file://$PROJECT_DIR$/modules/default/MMM-Assistant/node_helper.js" />
     <entry file="file://$PROJECT_DIR$/modules/default/newsfeed/fetcher.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -631,6 +653,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="75" lean-forward="false" selection-start-line="8" selection-start-column="75" selection-end-line="8" selection-end-column="75" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/MMM-Remote-Control/node_helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4464">
+          <caret line="248" column="59" lean-forward="false" selection-start-line="248" selection-start-column="59" selection-end-line="248" selection-end-column="59" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
